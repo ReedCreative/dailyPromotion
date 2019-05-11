@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+#book-search-input{
+	background: #fff;
+}
+.fa-angle-left,
+.fa-angle-right{
+	opacity: .17;
+}
+.gitbook-link address{
+	display: inline;
+}
+.fa-ellipsis-v:before{
+	opacity: 0;
+}
